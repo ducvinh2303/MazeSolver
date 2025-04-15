@@ -1,0 +1,21 @@
+﻿  assig_three223.c
+  game_state.c
+C:\study\107\Provisions 2\Provisions\Assignment3\game_state.c(450,7): warning C4101: 'msg': unreferenced local variable
+  game_tree.c
+C:\study\107\Provisions 2\Provisions\Assignment3\game_tree.c(435,7): warning C4101: 'msg': unreferenced local variable
+C:\study\107\Provisions 2\Provisions\Assignment3\game_tree.c(434,6): warning C4101: 'm': unreferenced local variable
+C:\study\107\Provisions 2\Provisions\Assignment3\game_tree.c(434,12): warning C4101: 'y': unreferenced local variable
+C:\study\107\Provisions 2\Provisions\Assignment3\game_tree.c(436,6): warning C4101: 'count': unreferenced local variable
+C:\study\107\Provisions 2\Provisions\Assignment3\game_tree.c(434,9): warning C4101: 'x': unreferenced local variable
+C:\study\107\Provisions 2\Provisions\Assignment3\game_tree.c(538,7): warning C4101: 'msg': unreferenced local variable
+C:\study\107\Provisions 2\Provisions\Assignment3\game_tree.c(537,6): warning C4101: 'm': unreferenced local variable
+C:\study\107\Provisions 2\Provisions\Assignment3\game_tree.c(537,12): warning C4101: 'y': unreferenced local variable
+C:\study\107\Provisions 2\Provisions\Assignment3\game_tree.c(539,6): warning C4101: 'count': unreferenced local variable
+C:\study\107\Provisions 2\Provisions\Assignment3\game_tree.c(537,9): warning C4101: 'x': unreferenced local variable
+  node.c
+  queue.c
+  square_state.c
+  stack.c
+  t_node.c
+  Generating Code...
+  Assignment3.vcxproj -> C:\study\107\Provisions 2\Provisions\Debug\Assignment3.exe
